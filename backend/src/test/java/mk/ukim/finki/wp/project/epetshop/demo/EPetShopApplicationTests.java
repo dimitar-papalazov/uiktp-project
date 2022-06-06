@@ -1,10 +1,10 @@
-package com.example.backend;
+package mk.ukim.finki.wp.project.epetshop.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BackendApplicationTests {
+class EPetShopApplicationTests {
 
     @Test
     void contextLoads() {
